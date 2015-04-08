@@ -1,2 +1,2 @@
 # AngularSamples
-This Work space includes my Angular Sample bits
+This work space includes my angular sample bits
